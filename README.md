@@ -1,2 +1,2 @@
-# Teste Ola Mundo
- Apendendo versionar código
+# Olá Mundo
+ Apendendo versionar código - Primriro repositorio do curso de Git e GitHub, criado durante uma aula ao vivo.
